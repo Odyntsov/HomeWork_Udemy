@@ -1,0 +1,16 @@
+№	Summary	STR	Result	Expected result	Attachment
+1.	Special character is taken by the form on the English keyboard layout	"1. Open app ListBoxer
+2. Enter the special symbol ""$""
+3. Click Add List"	Symbol was added	Character is not entered	https://prnt.sc/uiolYE8N46W-
+2. 	The special symbol is not displayed when sorting	"1. Click Symbols - Alphabetic on
+2. Click Symbols - Numeric on
+3. Click Range - A-M
+4. Click Range - N-Z"	"
+Special symbol is not found"	The special symbol is not accepted by the program	"https://prnt.sc/cyhF4sUy8f5o 
+https://prnt.sc/JEm0CKIQHhNK"
+3.	Incorrect order in last range	"1. Open Drop-down sorting range
+2. Look at the last range ( 300-9999)"	Incorrect value ( 300-9999)	301-9999	https://prnt.sc/uhv_6-V6ObNC
+4.	Takes an invalid value	"1. In the Add value field enter ( 10000)
+2. Value is added"	Value is added	Should appear pop-app with error	https://prnt.sc/IUNXDCEU-Mb1
+5.	When Enter empty field total records increase	"1. Click Add list with empty field
+2. Total records increase"	Total records increase	Total records should not increase	https://prnt.sc/dbUGhcJbH6zd
