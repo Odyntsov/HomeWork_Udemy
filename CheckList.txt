@@ -1,0 +1,31 @@
+Build	103.0.5060.53
+Environment	Google Chrome                                
+Test date	6/23/2022
+Testet	Odyntsov
+Cheking	Result
+
+Регистрация 
+	
+Email	Passed
+Телефон	Failed
+Соц.сети	Failed
+Валидация полей	Passed
+
+Авторизация	
+
+Логин в систему	Passed
+Запрос пароля	Passed
+
+Редактирование учетной записи	
+
+Загрузка фото	Passed
+Изменение имени	Passed
+Измененение пароля	Passed
+Изменение почты	Passed
+
+Поиск товара	
+
+Поиск по названию товара	Passed
+Поиск по цвету	Passed
+Поиск по описанию	Passed
+	
